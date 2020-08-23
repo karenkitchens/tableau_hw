@@ -1,4 +1,8 @@
- Citi bike report
+Link to Tablaeau:
+https://public.tableau.com/profile/karen.kitchens#!/vizhome/CitibikeAnalysis_15981577489330/Story4
+
+
+Citi bike report
 
 1. Citi bike needs to add some sort of validation to the birth field so that people don’t leave it on 1969 as a default.
 2. Non-binary gender is more popular than before, this should be something to consider in marketing.
